@@ -12,6 +12,7 @@
     <failOnMissingWebXml>false</failOnMissingWebXml>
     <maven.compiler.source>11</maven.compiler.source>
     <openliberty.version>[19.0.0.9,)</openliberty.version>
+    <liberty.bootstrap.blah>blah</liberty.bootstrap.blah>
     <final.name>demo</final.name>
   </properties>
   <dependencies>
